@@ -1,6 +1,8 @@
 # provider_studing
 
-A new Flutter project.
+[pubspec.yamlに以下をインストールしてね]
+dependencies:
+-  provider: ^6.0.0
 
 ## Getting Started
 
