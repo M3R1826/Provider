@@ -1,6 +1,6 @@
 # provider_studing
 
-[pubspec.yamlに以下をインストールしてね]
+[pubspec.yamlに以下をインストールください]
 dependencies:
 -  provider: ^6.0.0
 
